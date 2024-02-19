@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+.page{
+    background-color: white;
+    width: 600px;
+    padding: 20px 30px;
+}
+.name{
+    text-align: center;
+}
+.heading{
+    background-color: lightgray;
+    margin: 0px;
+}
+table{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-collapse: collapse;
+    width:600px;
+}
+
+th,td{
+    border: 0.5px solid black;
+    margin-top: 5px;
+}
